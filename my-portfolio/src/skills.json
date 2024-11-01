@@ -2,7 +2,7 @@
   "projects": [
     {
       "category": "Code",
-      "tags": [
+      "list": [
         "HTML5",
         "CSS3",
         "JavaScript ES6",
@@ -13,7 +13,7 @@
     },
     {
       "category": "Toolbox",
-      "tags": [
+      "list": [
         "Atom",
         "Postman",
         "Adobe Photoshop",
@@ -25,13 +25,13 @@
     },
     {
       "category": "Upcoming",
-      "tags": [
+      "list": [
         "Node.js"
       ]
     },
     {
       "category": "More",
-      "tags": [
+      "list": [
         "Branding",
         "Strategy",
         "Process Design",
