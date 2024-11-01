@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "category": "Code",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript ES6",
+        "React",
+        "Styled Components",
+        "GitHub"
+      ]
+    },
+    {
+      "category": "Toolbox",
+      "tags": [
+        "Atom",
+        "Postman",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Figma",
+        "Keynote",
+        "Slack"
+      ]
+    },
+    {
+      "category": "Upcoming",
+      "tags": [
+        "Node.js"
+      ]
+    },
+    {
+      "category": "More",
+      "tags": [
+        "Branding",
+        "Strategy",
+        "Process Design",
+        "Concept",
+        "Development",
+        "Agile methodology"
+      ]
+    }
+  ]
+}
