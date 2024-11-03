@@ -1,4 +1,5 @@
 import { About } from "./about/About";
+import { HeroImage } from "./heroImages/HeroImages";
 
 import './Hero.css'
 
@@ -10,7 +11,7 @@ export const Hero = () => {
           <h1>Gabriella Iofe</h1>
           <h3>Creative Frontend Developer with a Background in Architecture & Teaching</h3>
         </div>
-        {/* <Heroimages /> */}
+        <HeroImage />
         <About />
       </header>
     );

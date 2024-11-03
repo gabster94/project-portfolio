@@ -3,15 +3,15 @@
     {
       "id" : 1,
       "name": "Chatbot",
-      "image": "https://unsplash.com/photos/an-aerial-view-of-a-mountain-range-with-a-river-running-through-it-_gQ4D9g41Jg",
+      "image": "./img.png",
       "description": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
       "tags": [
         "HTML5",
         "CSS3",
         "JavaScript"
       ],
-      "netlify": "https://pizzeriagivovanni.netlify.app/",
-      "github": "https://github.com/gabster94/project-pizza"
+      "netlifylink": "https://pizzeriagivovanni.netlify.app/",
+      "githublink": "https://github.com/gabster94/project-pizza"
     },
     {
       "id": 2,
@@ -23,12 +23,12 @@
         "CSS3",
         "JavaScript"
       ],
-      "netlify": "https://gabyshappythoughts.netlify.app/",
-      "github": "https://github.com/gabster94/project-happy-thoughts-vite"
+      "netlifylink": "https://gabyshappythoughts.netlify.app/",
+      "githublink": "https://github.com/gabster94/project-happy-thoughts-vite"
     },
     {
       "id": 3,
-      "name": "Chatbot",
+      "name": "Weather app",
       "image": "https://unsplash.com/photos/an-aerial-view-of-a-mountain-range-with-a-river-running-through-it-_gQ4D9g41Jg",
       "description": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
       "tags": [
@@ -36,12 +36,12 @@
         "CSS3",
         "JavaScript"
       ],
-      "netlify": "https://pizzeriagivovanni.netlify.app/",
-      "github": "https://github.com/gabster94/project-pizza"
+      "netlifylink": "https://pizzeriagivovanni.netlify.app/",
+      "githublink": "https://github.com/gabster94/project-pizza"
     },
     {
       "id": 4,
-      "name": "Happy Thoughts",
+      "name": "Pizzabot",
       "image": "https://unsplash.com/photos/an-aerial-view-of-a-mountain-range-with-a-river-running-through-it-_gQ4D9g41Jg",
       "description": "A simple React app utilising the useEffect hook to fetch and display Dog Facts from an external API",
       "tags": [
@@ -49,8 +49,8 @@
         "CSS3",
         "JavaScript"
       ],
-      "netlify": "https://gabyshappythoughts.netlify.app/",
-      "github": "https://github.com/gabster94/project-happy-thoughts-vite"
+      "netlifylink": "https://gabyshappythoughts.netlify.app/",
+      "githublink": "https://github.com/gabster94/project-happy-thoughts-vite"
     }
   ]
 }
